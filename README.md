@@ -7,6 +7,6 @@ Nous nous sommes surtout concentrer sur le cadre des lois gaussiennes et des vec
 
 Pour comprendre la théorie derrière les algorithmes, vous pouvez lire le pdf qui est le mémoire que nous avons rendu en mai 2023 dans le cadre de notre master 1.
 
-Auteurs: Melvin Barbaux, Allan Sercy
+Auteurs: Melvin Barbaux (@ExtremumAlpha), Allan Sercy
 
 Sous la direction de M. Samuel Herrmann
